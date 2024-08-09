@@ -1,1 +1,2 @@
-# dasha551.github.io
+HTML, CSS, JavaScript
+Swiper
